@@ -1,0 +1,9 @@
+# Recognize SQL files
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Recognize Power BI files (assuming .pbix and .pbit extensions)
+*.pbix linguist-detectable=true
+*.pbix linguist-language=PowerBI
+*.pbit linguist-detectable=true
+*.pbit linguist-language=PowerBI
